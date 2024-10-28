@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Materials/movingEnemy.physicsMaterial2D.meta
+guid: 39732c160b2a3354288a155518ddbbd4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6200000
+========
+guid: c8895cd66d64f324582a29e8553e775c
+DefaultImporter:
+  externalObjects: {}
+>>>>>>>> Feat-jin:Assets/Scenes/HelpMenu.unity.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
