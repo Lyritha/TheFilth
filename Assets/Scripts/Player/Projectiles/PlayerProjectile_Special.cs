@@ -44,7 +44,7 @@ public class PlayerProjectile_Special : MonoBehaviour
         GameObject audio = Instantiate(audio_Magnet);
         DontDestroyOnLoad(audio);
 
-        rb.drag = 2f;
+        rb.linearDamping = 2f;
         rb.mass = 100f;
         magnet.SetActive(true);
 
